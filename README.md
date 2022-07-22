@@ -21,7 +21,7 @@ Other housing options for packaging a SnapperGPS PCB for a deployment, which are
 ## Printing instructions
 
 We printed all housings with ABS+. However, it should be possible to use another material, e.g., PLA, but it might be necessary to adjust the inner dimensions of the housing designs a little to account for different shrinking properties of the material.
-We printed the housings with 20% and 40% infill ratio, but you can select a lower ratio for a lighter print or a higher ratio for increased robustness.
+We printed the housings with a layer height of 0.1 mm and between 20% and 40% infill ratio, but you can select a lower ratio for a lighter print or a higher ratio for increased robustness.
 
 ## Tray
 
