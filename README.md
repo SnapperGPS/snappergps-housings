@@ -29,13 +29,19 @@ The tray holds a SnapperGPS PCB, a flat battery, and an *APAM1368YB13V3.0* activ
 
 # Thin box
 
+![Thin box](images/snappergps-thin-box.png)
+
 The box holds a SnapperGPS PCB, a battery, and an active GNSS antenna, e.g., an *Echo 27* or an *APAM1368YB13V3.0* in place and can be closed with a lid.
 
 # Thick box
 
+![Thick box](images/snappergps-thick-box.png)
+
 The same as the [thin box](thin-box), but with twice the wall thickness.
 
 # Box with cut-outs
+
+![Box with cut-outs](images/snappergps-box-with-cut-outs.png)
 
 The same as the [thin box](thin-box), but with two cut-outs to attach a USB cable and to monitor the status LED without opening the box.
 
