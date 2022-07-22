@@ -23,23 +23,23 @@ Other housing options for packaging a SnapperGPS PCB for a deployment, which are
 We printed all housings with ABS+. However, it should be possible to use another material, e.g., PLA, but it might be necessary to adjust the inner dimensions of the housing designs a little to account for different shrinking properties of the material.
 We printed the housings with 20% and 40% infill ratio, but you can select a lower ratio for a lighter print or a higher ratio for increased robustness.
 
-# Tray
+## Tray
 
 The tray holds a SnapperGPS PCB, a flat battery, and an *APAM1368YB13V3.0* active GNSS antenna in place.
 
-# Thin box
+## Thin box
 
 ![Thin box](images/snappergps-thin-box.png)
 
 The box holds a SnapperGPS PCB, a battery, and an active GNSS antenna, e.g., an *Echo 27* or an *APAM1368YB13V3.0*, in place and can be closed with a lid.
 
-# Thick box
+## Thick box
 
 ![Thick box](images/snappergps-thick-box.png)
 
 The same as the [thin box](thin-box), but with twice the wall thickness.
 
-# Box with cut-outs
+## Box with cut-outs
 
 ![Box with cut-outs](images/snappergps-box-with-cut-outs.png)
 
