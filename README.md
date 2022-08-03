@@ -25,6 +25,8 @@ We printed the housings with a layer height of 0.1 mm and between 20% and 40% in
 
 ## Tray
 
+![Tray](images/snappergps-tray.png)
+
 The tray holds a SnapperGPS PCB, a flat battery, and an *APAM1368YB13V3.0* active GNSS antenna in place.
 
 ## Thin box
