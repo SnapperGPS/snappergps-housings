@@ -15,6 +15,7 @@ Other housing options for packaging a SnapperGPS PCB for a deployment, which are
   * [Thin box](#thin-box)
   * [Thick box](#thick-box)
   * [Box with cut-outs](#box-with-cut-outs)
+  * [Turtle case](#turtle-case)
 
 ## Tray
 
