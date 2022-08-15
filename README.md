@@ -3,25 +3,18 @@
 This repository contains different housing designs intended to provide some protection for [a SnapperGPS PCB](https://github.com/SnapperGPS/snappergps-pcb/), a battery, and an antenna during testing.
 
 All designs are designed to be 3D-printed.
-If you want to use any of these designs for a long-term deployment, we advice you to carfully consider whether the material is suitable for the deployemnt environment.
-It might be possible to make the housings more suitable by applying a finsih to the outer surface.
+If you want to use any of these designs for a long-term deployment, we advise you to carefully consider whether the material is suitable for the deployment environment.
+It might be possible to make the housings more suitable by applying a finish to the outer surface.
 Other housing options for packaging a SnapperGPS PCB for a deployment, which are not part of this repository, include:
 * Heat shrink tubing (light-weight and waterproof),
 * Vacuum packing (light-weight and waterproof),
-* CNC milling (sturdy and waterproof with screws and O-ring).
 
 ### Table of contents
 
-  * [Printing instructions](#printing-instructions)
   * [Tray](#tray)
   * [Thin box](#thin-box)
   * [Thick box](#thick-box)
   * [Box with cut-outs](#box-with-cut-outs)
-
-## Printing instructions
-
-We printed all housings with ABS+. However, it should be possible to use another material, e.g., PLA, but it might be necessary to adjust the inner dimensions of the housing designs a little to account for different shrinking properties of the material.
-We printed the housings with a layer height of 0.1 mm and between 20% and 40% infill ratio, but you can select a lower ratio for a lighter print or a higher ratio for increased robustness.
 
 ## Tray
 
@@ -47,3 +40,16 @@ The same as the [thin box](thin-box), but with twice the wall thickness.
 
 The same as the [thin box](thin-box), but with two cut-outs to attach a USB cable and to monitor the status LED without opening the box.
 
+## Turtle case
+
+![Turtle case](images/turtle_case_engineering_drawing.png)
+
+This is a design for a waterproof enclosure (if machined out of waterproof materials). It requires 14 countersunk 10 mm M4 screws, such as [these from RS-Online](https://uk.rs-online.com/web/p/socket-screws/2328388). You will also need a 59 mm (inner diameter) x 2mm (cross-section) o-ring such as [this one from Polymax](https://www.polymax.co.uk/o-ring-59mm-id-x-2mm-cs-epdm-70-sha).
+
+You can design your own inserts based on the antenna and battery you are using. Alternatively, you can make a cut-out from a thick piece of packaging foam. Cut it slightly oversized so the components sit snugly when the enclosure is closed. Make sure that the tag cannot jiggle around in the tag.
+
+If you machine any piece of the housing out of metal, ensure that none of the electrical components can come in touch with it to avoid shorts.
+
+A version machined out of polyoxymethylene (for the top) and aluminium (for the baseplate) has been successfully deployed on nesting loggerhead sea turtles.
+
+![Turtle tag on turtle](images/tag_on_turtle.jpg)
