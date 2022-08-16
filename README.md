@@ -53,4 +53,6 @@ If you machine any piece of the housing out of metal, ensure that none of the el
 
 A version machined out of polyoxymethylene (for the top) and aluminium (for the baseplate) has been successfully deployed on nesting loggerhead sea turtles.
 
+You can find more information on deploying SnapperGPS on (sea) turtles in [this dicussion](https://github.com/orgs/SnapperGPS/discussions/4).
+
 ![Turtle tag on turtle](images/tag_on_turtle.jpg)
