@@ -16,6 +16,7 @@ Other housing options for packaging a SnapperGPS PCB for a deployment, which are
   * [Thick box](#thick-box)
   * [Box with cut-outs](#box-with-cut-outs)
   * [Turtle case](#turtle-case)
+  * [Waterproof case without threads](#waterproof-case-without-machined-threads)
 
 ## Tray
 
@@ -56,3 +57,24 @@ A version machined out of polyoxymethylene (for the top) and aluminium (for the 
 You can find more information on deploying SnapperGPS on (sea) turtles in [this dicussion](https://github.com/orgs/SnapperGPS/discussions/4).
 
 ![Turtle tag on turtle](images/tag_on_turtle.jpg)
+
+
+## Waterproof case without machined threads
+
+![Waterproof case without machined threads](snappergps-waterproof-case-no-threads-2022/images/assembly.jpg)
+
+This design is a smaller and simpler version of the turtle tag. Instead of using machined threads, this design uses nuts to seal the case.
+
+For this version, I had some 15 mm M3 Phillips Pan Head screws and nuts left over [from this set](https://www.amazon.co.uk/gp/product/B08789D7M5). But if you have access to Fusion, you can also edit the .f3d file to fit other types of screws. I recommend getting nuts with nyloc inserts. They won't come undone as easily.
+
+You will also need an o-ring with 2 mm cross-section and 48 mm internal diameter. I used [this one from Polymax](https://www.polymax.co.uk/o-ring-sizes-48mm-id-x-2mm-cs-nitrile-70-sha-fda).
+
+
+As before, I recommend cutting an oversized piece of packaging foam to hold the components in place. Make sure that the electronic components cannot jiggle around or short out by touching each other. I used insulation tape and double-sided tape to glue all the parts together. This makes the components easy to handle and prevents accidental shorts as well as unnecessary stress on the antenna and battery connector.
+
+<img src = "snappergps-waterproof-case-no-threads-2022/images/case.jpg" width ="500" /> <img src = "snappergps-waterproof-case-no-threads-2022/images/back.jpg" width ="500" />
+
+This repo contains a version with loop holes (pictured) and one without. The photos show a model 3D-printed out of PLA. As such it won't dive-proof but it's still a very sturdy, weather-proof case that you can cable tie to your backpack/bike/boat/flying car.
+
+For a waterproof case, we recommend CNC machining the top out of polyoxymethylene (POM) and the plate out of aluminium (beware of shorting out the electronics).
+
