@@ -72,7 +72,7 @@ You will also need an o-ring with 2 mm cross-section and 48 mm internal diameter
 
 As before, I recommend cutting an oversized piece of packaging foam to hold the components in place. Make sure that the electronic components cannot jiggle around or short out by touching each other. I used insulation tape and double-sided tape to glue all the parts together. This makes the components easy to handle and prevents accidental shorts as well as unnecessary stress on the antenna and battery connector.
 
-<img src = "snappergps-waterproof-case-no-threads-2022/images/case.jpg" width ="500" /> <img src = "snappergps-waterproof-case-no-threads-2022/images/back.jpg" width ="500" />
+<img src = "snappergps-waterproof-case-no-threads-2022/images/case.jpg" width ="400" /> <img src = "snappergps-waterproof-case-no-threads-2022/images/back.jpg" width ="400" />
 
 This repo contains a version with loop holes (pictured) and one without. The photos show a model 3D-printed out of PLA. As such it won't dive-proof but it's still a very sturdy, weather-proof case that you can cable tie to your backpack/bike/boat/flying car.
 
