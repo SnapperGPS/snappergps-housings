@@ -17,6 +17,7 @@ Other housing options for packaging a SnapperGPS PCB for a deployment, which are
   * [Box with cut-outs](#box-with-cut-outs)
   * [Turtle case](#turtle-case)
   * [Waterproof case without threads](#waterproof-case-without-machined-threads)
+  * [Acknowledgements](#acknowledgements)
 
 ## Tray
 
@@ -77,4 +78,9 @@ As before, I recommend cutting an oversized piece of packaging foam to hold the 
 This repo contains a version with loop holes (pictured) and one without. The photos show a model 3D-printed out of PLA. As such it won't dive-proof but it's still a very sturdy, weather-proof case that you can cable tie to your backpack/bike/boat/flying car.
 
 For a waterproof case, we recommend CNC machining the top out of polyoxymethylene (POM) and the plate out of aluminium (beware of shorting out the electronics).
+
+## Acknowledgements
+
+SnapperGPS was funded by an EPSRC IAA Technology Fund (D4D00010-BL14).
+Jonas Beuchert and Amanda Matthes are funded by the EPSRC Centre for Doctoral Training in Autonomous Intelligent Machines and Systems (DFT00350-DF03.01, DFT00350-DF03.05).
 
