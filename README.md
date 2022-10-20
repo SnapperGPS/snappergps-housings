@@ -2,7 +2,7 @@
 
 This repository contains different housing designs intended to provide some protection for [a SnapperGPS PCB](https://github.com/SnapperGPS/snappergps-pcb/), a battery, and an antenna during testing.
 
-All designs are designed to be 3D-printed.
+Most designs (but not all) are intended to be 3D-printed.
 If you want to use any of these designs for a long-term deployment, we advise you to carefully consider whether the material is suitable for the deployment environment.
 It might be possible to make the housings more suitable by applying a finish to the outer surface.
 Other housing options for packaging a SnapperGPS PCB for a deployment, which are not part of this repository, include:
