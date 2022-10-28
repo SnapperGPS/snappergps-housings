@@ -6,8 +6,10 @@ Most designs (but not all) are intended to be 3D-printed.
 If you want to use any of these designs for a long-term deployment, we advise you to carefully consider whether the material is suitable for the deployment environment.
 It might be possible to make the housings more suitable by applying a finish to the outer surface.
 Other housing options for packaging a SnapperGPS PCB for a deployment, which are not part of this repository, include:
-* Heat shrink tubing (light-weight and waterproof),
-* Vacuum packing (light-weight and waterproof),
+* Heat shrink tubing (light-weight and waterproof), and
+* Vacuum packing (light-weight and waterproof).
+
+To avoid creating an electrical short, we suggest to ensure that none of the components in the enclosure (PCB, battery, antenna) directly touches another one. For example, this can be done by putting some tape on the components if they would otherwise make direct contact.
 
 ### Table of contents
 
