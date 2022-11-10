@@ -5,20 +5,24 @@ This repository contains different housing designs intended to provide some prot
 Most designs (but not all) are intended to be 3D-printed.
 If you want to use any of these designs for a long-term deployment, we advise you to carefully consider whether the material is suitable for the deployment environment.
 It might be possible to make the housings more suitable by applying a finish to the outer surface.
-Other housing options for packaging a SnapperGPS PCB for a deployment, which are not part of this repository, include:
-* Heat shrink tubing (light-weight and waterproof), and
-* Vacuum packing (light-weight and waterproof).
+
+Other housing options for packaging a SnapperGPS PCB for a deployment include:
+* [Heat-shrink tubing](#heat-shrink-tubing) (light-weight, low-cost, and waterproof), and
+* [Vacuum packing](#vacuum-packing) (light-weight, low-cost, and waterproof).
 
 To avoid creating an electrical short, we suggest to ensure that none of the components in the enclosure (PCB, battery, antenna) directly touches another one. For example, this can be done by putting some tape on the components if they would otherwise make direct contact.
 
 ### Table of contents
 
-  * [Tray](#tray)
+  * [Tray (APAM1368YB13V3.0)](#tray-apam1368yb13v30)]
+  * [Tray (Echo 27 V2)](#tray-echo-27-v2)
   * [Thin box](#thin-box)
   * [Thick box](#thick-box)
   * [Box with cut-outs](#box-with-cut-outs)
   * [Turtle case](#turtle-case)
   * [Waterproof case without threads](#waterproof-case-without-machined-threads)
+  * [Heat-shrink tubing](#heat-shrink-tubing)
+  * [Vacuum packing](#vacuum-packing)
   * [Acknowledgements](#acknowledgements)
 
 ## Tray (APAM1368YB13V3.0)
@@ -86,6 +90,25 @@ As before, I recommend cutting an oversized piece of packaging foam to hold the 
 This repo contains a version with loop holes (pictured) and one without. The photos show a model 3D-printed out of PLA. As such it won't dive-proof but it's still a very sturdy, weather-proof case that you can cable tie to your backpack/bike/boat/flying car.
 
 For a waterproof case, we recommend CNC machining the top out of polyoxymethylene (POM) and the plate out of aluminium (beware of shorting out the electronics).
+
+## Heat-shrink tubing
+
+![Heat-shrink tubing applied to SnapperGPS receivers](images/snappergps-heat-shrink-tubing.jpeg)
+
+![Heat-shrink tubing applied to a SnapperGPS receiver on a bird](images/snappergps-bird.jpeg)
+
+[Heat-shrink tubing](https://en.wikipedia.org/wiki/Heat-shrink_tubing) is a light-weight, low-cost, and waterproof way to enclose a SnapperGPS receiver for deployments where no sturdy housing is required.
+For this, you need heat-shrink tubing that is wide enough to fit a SnapperGPS receiver.
+(A SnapperGPS receiver has a width of 27.3 mm and a length of 32 mm.)
+Cut a tube that is about 2 cm longer than a SnapperGPS receiver and place a receiver in the tube.
+Next, heat the tube, e.g., using a hot air gun, a lighter, or an oven, until the tube has shrunk and wrapped around the receiver.
+Finally, use hot pliers, a curling iron, or something similar to seal both ends of the tube.
+
+## Vacuum packing
+
+[Vacuum packing](https://en.wikipedia.org/wiki/Vacuum_packing) is a light-weight, low-cost, and waterproof way to enclose a SnapperGPS receiver for deployments where no sturdy housing is required.
+For this, you need vacuum sealer machine / vacuum packaging machine.
+It can be a low-cost machine like one of those that can be used for food sealing at home.
 
 ## Acknowledgements
 
