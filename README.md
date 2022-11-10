@@ -37,6 +37,8 @@ The tray holds a SnapperGPS PCB, a flat battery, and an *APAM1368YB13V3.0* activ
 
 The tray holds a SnapperGPS PCB, a flat battery, and an *Echo 27 V2* active GNSS antenna in place.
 
+[Assembly video](https://youtu.be/pbr400zIdqU?t=126).
+
 ## Thin box
 
 ![Thin box](images/snappergps-thin-box.png)
@@ -88,6 +90,8 @@ As before, I recommend cutting an oversized piece of packaging foam to hold the 
 <img src = "snappergps-waterproof-case-no-threads-2022/images/case.jpg" width ="400" /> <img src = "snappergps-waterproof-case-no-threads-2022/images/back.jpg" width ="400" />
 
 This repo contains a version with loop holes (pictured) and one without. The photos show a model 3D-printed out of PLA. As such it won't dive-proof but it's still a very sturdy, weather-proof case that you can cable tie to your backpack/bike/boat/flying car.
+
+[Assembly video](https://youtu.be/pbr400zIdqU).
 
 For a waterproof case, we recommend CNC machining the top out of polyoxymethylene (POM) and the plate out of aluminium (beware of shorting out the electronics).
 
