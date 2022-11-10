@@ -14,7 +14,7 @@ To avoid creating an electrical short, we suggest to ensure that none of the com
 
 ### Table of contents
 
-  * [Tray (APAM1368YB13V3.0)](#tray-apam1368yb13v30)]
+  * [Tray (APAM1368YB13V3.0)](#tray-apam1368yb13v30)
   * [Tray (Echo 27 V2)](#tray-echo-27-v2)
   * [Thin box](#thin-box)
   * [Thick box](#thick-box)
