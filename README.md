@@ -107,7 +107,7 @@ Finally, use hot pliers, a curling iron, or something similar to seal both ends 
 ## Vacuum packing
 
 [Vacuum packing](https://en.wikipedia.org/wiki/Vacuum_packing) is a light-weight, low-cost, and waterproof way to enclose a SnapperGPS receiver for deployments where no sturdy housing is required.
-For this, you need vacuum sealer machine / vacuum packaging machine.
+For this, you need vacuum sealer machine / vacuum packing machine.
 It can be a low-cost machine like one of those that can be used for food sealing at home.
 
 ## Acknowledgements
