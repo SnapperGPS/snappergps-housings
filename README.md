@@ -9,6 +9,7 @@ It might be possible to make the housings more suitable by applying a finish to 
 Other housing options for packaging a SnapperGPS PCB for a deployment include:
 * [Heat-shrink tubing](#heat-shrink-tubing) (light-weight, low-cost, and waterproof), and
 * [Vacuum packing](#vacuum-packing) (light-weight, low-cost, and waterproof).
+* A [commercial box](#commercial-box).
 
 To avoid creating an electrical short, we suggest to ensure that none of the components in the enclosure (PCB, battery, antenna) directly touches another one. For example, this can be done by putting some tape on the components if they would otherwise make direct contact.
 
@@ -23,6 +24,7 @@ To avoid creating an electrical short, we suggest to ensure that none of the com
   * [Waterproof case without threads](#waterproof-case-without-machined-threads)
   * [Heat-shrink tubing](#heat-shrink-tubing)
   * [Vacuum packing](#vacuum-packing)
+  * [Commercial box](#commercial-box)
   * [Acknowledgements](#acknowledgements)
 
 ## Tray (APAM1368YB13V3.0)
@@ -113,6 +115,11 @@ Finally, use hot pliers, a curling iron, or something similar to seal both ends 
 [Vacuum packing](https://en.wikipedia.org/wiki/Vacuum_packing) is a light-weight, low-cost, and waterproof way to enclose a SnapperGPS receiver for deployments where no sturdy housing is required.
 For this, you need vacuum sealer machine / vacuum packing machine.
 It can be a low-cost machine like one of those that can be used for food sealing at home.
+
+## Commercial box
+
+You can also buy an off-the-shelf enclosure that fits a SnapperGPS receiver and its peripherals, for example, a plastic box.
+Check that protection against water, dust, and mechanical force are aligned with your deployment conditions.
 
 ## Acknowledgements
 
