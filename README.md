@@ -118,7 +118,7 @@ It can be a low-cost machine like one of those that can be used for food sealing
 
 ## Commercial box
 
-You can also buy an off-the-shelf enclosure that fits a SnapperGPS receiver and its peripherals, for example, a plastic box.
+You can also buy an off-the-shelf enclosure that fits a SnapperGPS receiver and its peripherals, for example, a plastic box like [this one from the Hammond 1551 series](https://uk.rs-online.com/web/p/general-purpose-enclosures/5135426).
 Check that protection against water, dust, and mechanical force are aligned with your deployment conditions.
 
 ## Acknowledgements
