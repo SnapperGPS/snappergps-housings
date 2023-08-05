@@ -1,6 +1,6 @@
 # snappergps-housings
 
-This repository contains different housing designs intended to provide some protection for [a SnapperGPS PCB](https://github.com/SnapperGPS/snappergps-pcb/), a battery, and an antenna during testing.
+This repository contains different housing designs intended to provide some protection for [a SnapperGPS PCB V1.0.0](https://github.com/SnapperGPS/snappergps-pcb/), a battery, and an antenna or [a SnapperGPS receiver V2.0.0](https://github.com/SnapperGPS/snappergps-pcb-2/) during testing and potentially during deployments.
 
 Most designs (but not all) are intended to be 3D-printed.
 If you want to use any of these designs for a long-term deployment, we advise you to carefully consider whether the material is suitable for the deployment environment.
@@ -11,7 +11,9 @@ Other housing options for packaging a SnapperGPS PCB for a deployment include:
 * [Vacuum packing](#vacuum-packing) (light-weight, low-cost, and waterproof).
 * A [commercial box](#commercial-box).
 
-To avoid creating an electrical short, we suggest to ensure that none of the components in the enclosure (PCB, battery, antenna) directly touches another one. For example, this can be done by putting some tape on the components if they would otherwise make direct contact.
+While the 3D-printed housings are designed for the SnapperGPS receiver V1.0.0, these additional opetions also apply to the SnapperGPS receiver V2.0.0.
+
+To avoid creating an electrical short when using a V1.0.0 receiver, we suggest to ensure that none of the components in the enclosure (PCB, battery, antenna) directly touches another one. For example, this can be done by putting some tape on the components if they would otherwise make direct contact.
 
 ### Table of contents
 
