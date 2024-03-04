@@ -26,6 +26,7 @@ To avoid creating an electrical short when using a V1.0.0 receiver, we suggest t
   * [Waterproof case without threads](#waterproof-case-without-machined-threads)
   * [Heat-shrink tubing](#heat-shrink-tubing)
   * [Vacuum packing](#vacuum-packing)
+  * [Heat seal bag](#heat-seal-bag)
   * [Commercial box](#commercial-box)
   * [Acknowledgements](#acknowledgements)
 
@@ -117,6 +118,15 @@ Finally, use hot pliers, a curling iron, or something similar to seal both ends 
 [Vacuum packing](https://en.wikipedia.org/wiki/Vacuum_packing) is a light-weight, low-cost, and waterproof way to enclose a SnapperGPS receiver for deployments where no sturdy housing is required.
 For this, you need vacuum sealer machine / vacuum packing machine.
 It can be a low-cost machine like one of those that can be used for food sealing at home.
+
+## Heat seal bag
+
+![SnapperGPS receivers in heat sealed bags](images/heat-sealed-bag.jpeg)
+
+Heat seal bags are another light-weight and low-cost way to package a SnapperGPS receiver where no sturdy housing is required and packaging size is not a tigh constraint.
+For example, [these ones](https://www.amazon.co.uk/dp/B0B5R4X6R5) have been used in the past and could also be used for vacuum sealing.
+
+Consider adding some [silica gel](https://en.wikipedia.org/wiki/Silica_gel) bags inside.
 
 ## Commercial box
 
