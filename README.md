@@ -33,6 +33,21 @@ To avoid creating an electrical short when using a V1.0.0 receiver, we suggest t
 
 ##  Waterproof sea turtle cases for V2.0.0
 
+![Small top](images/v2-small-top.png)
+![Small bottom](images/v2-small-bottom.png)
+![Big top](images/v2-big-top.png)
+![Big bottom (thin)](images/v2-big-bottom-thin.png)
+![Big bottom (thick)](images/v2-big-bottom-thick.png)
+
+Unlike most housings below, these cases are intended for the SnapperGPS PCB 2.0.0.
+If produced with a CNC machine, they can be waterproof in more than 100 m depth.
+Each design consists of a top and a bottom piece.
+The top piece is to be machined out of POM while to bottom piece can be made out of transparent polycarbonate, POM, or aluminium.
+There is a smaller and a bigger version, which provide the same interior space, but differ in their outer appeareance.
+In addition, the big version can go with a thinner (5 mm) or thicker (7 mm) bottom plate.
+Both versions require 10 mm M4 screws, such as [these from RS-Online](https://uk.rs-online.com/web/p/socket-screws/2328388).
+You will also need a XX mm (inner diameter) x 2mm (cross-section) o-ring.
+
 ## Tray (APAM1368YB13V3.0)
 
 ![Tray (APAM1368YB13V3.0)](images/snappergps-tray.png)
