@@ -17,7 +17,7 @@ To avoid creating an electrical short when using a V1.0.0 receiver, we suggest t
 
 ### Table of contents
 
-  * [Waterproof sea turtle cases for V2.0.0](#waterproof-sea-turtle-cases-for-v2.0.0)
+  * [Waterproof sea turtle cases for V2.0.0](#waterproof-sea-turtle-cases-for-v200)
   * [Tray (APAM1368YB13V3.0)](#tray-apam1368yb13v30)
   * [Tray (Echo 27 V2)](#tray-echo-27-v2)
   * [Thin box](#thin-box)
