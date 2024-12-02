@@ -45,8 +45,8 @@ Each design consists of a top and a bottom piece.
 The top piece is to be machined out of POM while to bottom piece can be made out of transparent polycarbonate, POM, or aluminium.
 There is a smaller and a bigger version, which provide the same interior space, but differ in their outer appeareance.
 In addition, the big version can go with a thinner (5 mm) or thicker (7 mm) bottom plate.
-Both versions require countersunk M4 screws, 10 mm length such as [these from RS-Online](https://uk.rs-online.com/web/p/socket-screws/2328388) for the thick bottom piece or 8 mm length for the thin bottom piece.
-You will also need a XX mm (inner diameter) x 2 mm (cross-section) o-ring.
+Both versions require countersunk M4 screws, 10 mm length such as [these from RS-Online](https://uk.rs-online.com/web/p/socket-screws/2328388) for the thin bottom pieces or 12 mm length for the thick bottom piece.
+You will also need a 50 mm (inner diameter) x 2 mm (cross-section) o-ring such as [these from Polymax](https://www.polymax.co.uk/o-ring-50mm-id-x-2mm-cs-nitrile-bla-70-sha).
 
 ## Tray (APAM1368YB13V3.0)
 
